@@ -321,7 +321,18 @@ o3,2025-04-16,FrontierMath-2025-02-28-Private,0.1,OpenAI,United States of Americ
 o4-mini,2025-04-16,FrontierMath-2025-02-28-Public,0.2,OpenAI,United States of America
 o4-mini,2025-04-16,FrontierMath-2025-02-28-Private,0.193103448275862,OpenAI,United States of America
 o4-mini,2025-04-16,FrontierMath-2025-02-28-Private,0.096551724137931,OpenAI,United States of America
-Claude 3.7 Sonnet,2025-02-24,SWE-Bench verified,0.522,Anthropic,United States of America
-Gemini 2.0 Flash,2025-02-05,SWE-Bench verified,0.22,Google,United States of America
+Claude 3.7 Sonnet,2025-02-24,SWE-Bench verified,0.632,Anthropic,United States of America
+Gemini 2.0 Flash,2025-02-05,SWE-Bench verified,0.522,Google,United States of America
 Grok-3 mini,2025-04-09,SWE-Bench verified,0.152,xAI,United States of America
 o4-mini,2025-04-16,SWE-Bench verified,0.346,OpenAI,United States of America
+Claude 3.5 Sonnet,2024-06-20,SWE-Bench verified,0.49,Anthropic,United States of America
+DeepSeek R1,2025-01-20,SWE-Bench verified,0.492,DeepSeek,China
+DeepSeek V3,2024-12-26,SWE-Bench verified,0.42,DeepSeek,China
+o1,2024-12-17,SWE-Bench verified,0.489,OpenAI,United States of America
+o3-mini,2025-01-31,SWE-Bench verified,0.493,OpenAI,United States of America
+SWE-RL (Llama 3),2025-02-26,SWE-Bench verified,0.412,Meta AI,United States of America
+GPT-4.5,2025-02-27,SWE-Bench verified,0.38,OpenAI,United States of America
+Gemini-2.5 Pro,2025-03-25,SWE-Bench verified,0.638,Google,United States of America
+Claude 3.7 Sonnet (Custom),2025-02-24,SWE-Bench verified,0.703,Anthropic,United States of America
+o3,2025-04-16,SWE-Bench verified,0.691,OpenAI,United States of America
+o4-mini,2025-04-16,SWE-Bench verified,0.681,OpenAI,United States of America
